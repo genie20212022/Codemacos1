@@ -128,7 +128,7 @@ Support CodeEdit's development by [becoming a backer](https://github.com/sponsor
 
 ## RP
 
-This project is tested with BrowserStack.
+This project is tested with [BrowserStack](https://BrowserStack.com).
 
 ## License
 
