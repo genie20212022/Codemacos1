@@ -126,6 +126,10 @@ Support CodeEdit's development by [becoming a backer](https://github.com/sponsor
 [@ivanvorobei](https://github.com/ivanvorobei)
 [@albertorestifo](https://github.com/albertorestifo)
 
+## RP
+
+This project is tested with BrowserStack.
+
 ## License
 
 Licensed under the [MIT license](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE.md).
